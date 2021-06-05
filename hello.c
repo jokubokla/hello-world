@@ -1,8 +1,8 @@
 /*
  ============================================================================
  Name        : hello.c
- Author      : nobbi
- Version     :
+ Author      : jokubokla
+ Version     : 0.9.1
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
  ============================================================================
