@@ -2,7 +2,7 @@
  ============================================================================
  Name        : hello.c
  Author      : jokubokla
- Version     : 0.9.1
+ Version     : 0.9.2
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
  ============================================================================
